@@ -1,0 +1,13 @@
+?
+6D:\DotNetCore\DotNetCoreAPI\AutoMappers\IAutoMapper.csutf-8P
+GD:\DotNetCore\DotNetCoreAPI\AutoMappers\Profiles\LevelsUpUserProfile.csutf-8O
+FD:\DotNetCore\DotNetCoreAPI\AutoMappers\Profiles\SubCategoryProfile.csutf-8P
+GD:\DotNetCore\DotNetCoreAPI\AutoMappers\Profiles\UserCategoryProfile.csutf-8H
+?D:\DotNetCore\DotNetCoreAPI\AutoMappers\Profiles\UserProfile.csutf-8S
+JD:\DotNetCore\DotNetCoreAPI\AutoMappers\Profiles\UserSubCategoryProfile.csutf-8b
+YD:\DotNetCore\DotNetCoreAPI\AutoMappers\ValueResolvers\UserCategoryLockedValueResolver.csutf-8h
+_D:\DotNetCore\DotNetCoreAPI\AutoMappers\ValueResolvers\UserSubCategoryImagePathValueResolver.csutf-8e
+\D:\DotNetCore\DotNetCoreAPI\AutoMappers\ValueResolvers\UserSubCategoryLockedValueResolver.csutf-8e
+\D:\DotNetCore\DotNetCoreAPI\AutoMappers\ValueResolvers\UserSubCategoryMemberValueResolver.csutf-8}
+rD:\DotNetCore\DotNetCoreAPI\AutoMappers\obj\Release\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8i
+^D:\DotNetCore\DotNetCoreAPI\AutoMappers\obj\Release\netstandard2.1\AutoMappers.AssemblyInfo.csutf-8

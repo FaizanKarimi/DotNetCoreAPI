@@ -1,0 +1,6 @@
+projectKey=LevelsUpAPI
+serverUrl=http://localhost:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://localhost:9000/dashboard?id=LevelsUpAPI
+ceTaskId=AXuL_3u6vc_yKdUH01SR
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXuL_3u6vc_yKdUH01SR

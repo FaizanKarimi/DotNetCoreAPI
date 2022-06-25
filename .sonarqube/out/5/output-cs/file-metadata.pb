@@ -1,0 +1,15 @@
+L
+CD:\DotNetCore\DotNetCoreAPI\Services\Implementations\BaseService.csutf-8S
+JD:\DotNetCore\DotNetCoreAPI\Services\Implementations\SubCategoryService.csutf-8T
+KD:\DotNetCore\DotNetCoreAPI\Services\Implementations\UserCategoryService.csutf-8S
+JD:\DotNetCore\DotNetCoreAPI\Services\Implementations\UserProfileService.csutf-8L
+CD:\DotNetCore\DotNetCoreAPI\Services\Implementations\UserService.csutf-8W
+ND:\DotNetCore\DotNetCoreAPI\Services\Implementations\UserSubCategoryService.csutf-8D
+;D:\DotNetCore\DotNetCoreAPI\Services\Interfaces\IService.csutf-8O
+FD:\DotNetCore\DotNetCoreAPI\Services\Interfaces\ISubCategoryService.csutf-8P
+GD:\DotNetCore\DotNetCoreAPI\Services\Interfaces\IUserCategoryService.csutf-8O
+FD:\DotNetCore\DotNetCoreAPI\Services\Interfaces\IUserProfileService.csutf-8H
+?D:\DotNetCore\DotNetCoreAPI\Services\Interfaces\IUserService.csutf-8S
+JD:\DotNetCore\DotNetCoreAPI\Services\Interfaces\IUserSubCategoryService.csutf-8z
+oD:\DotNetCore\DotNetCoreAPI\Services\obj\Release\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8c
+XD:\DotNetCore\DotNetCoreAPI\Services\obj\Release\netstandard2.1\Services.AssemblyInfo.csutf-8

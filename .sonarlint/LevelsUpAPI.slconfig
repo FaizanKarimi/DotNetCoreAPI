@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://localhost:9000/",
+  "Organization": null,
+  "ProjectKey": "LevelsUpAPI",
+  "ProjectName": "LevelsUpAPI",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AXj4tiJEt9yZP1Ll8T5v",
+      "ProfileTimestamp": "2021-04-22T08:33:09Z"
+    }
+  }
+}

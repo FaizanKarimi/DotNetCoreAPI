@@ -1,0 +1,14 @@
+`
+WD:\DotNetCore\DotNetCoreAPI\BusinessOperations\Implementations\BaseBusinessOperation.csutf-8X
+OD:\DotNetCore\DotNetCoreAPI\BusinessOperations\Implementations\BOSubCategory.csutf-8Q
+HD:\DotNetCore\DotNetCoreAPI\BusinessOperations\Implementations\BOUser.csutf-8Y
+PD:\DotNetCore\DotNetCoreAPI\BusinessOperations\Implementations\BOUserCategory.csutf-8\
+SD:\DotNetCore\DotNetCoreAPI\BusinessOperations\Implementations\BOUserSubCategory.csutf-8T
+KD:\DotNetCore\DotNetCoreAPI\BusinessOperations\Interfaces\IBOSubCategory.csutf-8M
+DD:\DotNetCore\DotNetCoreAPI\BusinessOperations\Interfaces\IBOUser.csutf-8U
+LD:\DotNetCore\DotNetCoreAPI\BusinessOperations\Interfaces\IBOUserCategory.csutf-8X
+OD:\DotNetCore\DotNetCoreAPI\BusinessOperations\Interfaces\IBOUserSubCategory.csutf-8X
+OD:\DotNetCore\DotNetCoreAPI\BusinessOperations\Interfaces\IBusinessOperation.csutf-8S
+JD:\DotNetCore\DotNetCoreAPI\BusinessOperations\PostSharp\ProfilerAspect.csutf-8R
+ID:\DotNetCore\DotNetCoreAPI\BusinessOperations\Properties\AssemblyInfo.csutf-8„
+yD:\DotNetCore\DotNetCoreAPI\BusinessOperations\obj\Release\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8
